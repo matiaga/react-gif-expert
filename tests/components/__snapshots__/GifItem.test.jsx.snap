@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <GifIem /> match con snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Happy I Love You GIF by Sam Omo"
+      src="https://media1.giphy.com/media/9DU1U5YrpouTNZIOik/giphy.gif?cid=3089cb8deut3jbvu4f4x1s0ol1t9kvcx0d78hh8sv5kchoby&rid=giphy.gif&ct=g"
+    />
+    <p>
+      Happy I Love You GIF by Sam Omo
+    </p>
+  </div>
+</div>
+`;
